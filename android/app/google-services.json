@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "587557654530",
+    "firebase_url": "https://my-first-firebase-projec-baf80.firebaseio.com",
+    "project_id": "my-first-firebase-projec-baf80",
+    "storage_bucket": "my-first-firebase-projec-baf80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587557654530:android:d40065b6b51c0250",
+        "android_client_info": {
+          "package_name": "com.example.flutter_leaflet_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587557654530-bvs7je57uhu42002e3lphbm7ff03in51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_leaflet_maps",
+            "certificate_hash": "990d5abb9da7980cfc0b2d3cda827fa6a7fee5e7"
+          }
+        },
+        {
+          "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOF8c4I28qavKz-UNcr3ZgcG_O6mwkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587557654530:android:cfd9d20db8747d61",
+        "android_client_info": {
+          "package_name": "com.example.flutter_phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587557654530-iteqgk1p04n0js2i41e6a04v64uba4bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_phoneauth",
+            "certificate_hash": "990d5abb9da7980cfc0b2d3cda827fa6a7fee5e7"
+          }
+        },
+        {
+          "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOF8c4I28qavKz-UNcr3ZgcG_O6mwkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587557654530:android:41243ea97b627100",
+        "android_client_info": {
+          "package_name": "com.login.facebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587557654530-q9onoichimth7gf4vn3vkopkc3bsbva6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login.facebook",
+            "certificate_hash": "990d5abb9da7980cfc0b2d3cda827fa6a7fee5e7"
+          }
+        },
+        {
+          "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOF8c4I28qavKz-UNcr3ZgcG_O6mwkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587557654530:android:1f48bbebf2cafc0b",
+        "android_client_info": {
+          "package_name": "mtechviral.fdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587557654530-04ea93khttirufjee10eaucm410pohmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mtechviral.fdemo",
+            "certificate_hash": "990d5abb9da7980cfc0b2d3cda827fa6a7fee5e7"
+          }
+        },
+        {
+          "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzOF8c4I28qavKz-UNcr3ZgcG_O6mwkGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587557654530-sq9oh6sprcsf7df8jhn0vkv0okg3vkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

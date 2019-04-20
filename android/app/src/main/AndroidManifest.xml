@@ -9,9 +9,9 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="flutter_leaflet_maps"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/leaftlet_map_icon">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.flutter_leaflet_maps.MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
@@ -29,5 +29,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyD5LPQDM1bpAs6hxHa4CH1R7w3rzQ6FTKE"/>
     </application>
 </manifest>
